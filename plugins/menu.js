@@ -37,7 +37,7 @@ const defaultMenu = {
 ≫ My prefix ( %p )
 
 🪙 Gold: *%limit*       🔖 Role: *%role*
-🧧 Level: *%level*            ❇️ Mana: *%totalexp*
+🧧 Level: *%level*           ❇️ Mana: *%totalexp*
 
 All usable commands are listed below 
 
